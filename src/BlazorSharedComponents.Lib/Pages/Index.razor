@@ -1,0 +1,7 @@
+﻿@page "/"
+
+@inject IInjectableCustomService InjectableCustomService
+
+<MatHeadline3>
+    @InjectableCustomService.GetInformation()
+</MatHeadline3>
