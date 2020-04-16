@@ -1,6 +1,8 @@
-# Blazor Shared Component 
+# Blazor Shared Components
 
 An example of showing shared components and pages with Blazor server and client side.
+
+> :pushpin: Blog article (DE) [Blazor Tipp: Komponenten unabhängig vom Hosting-Model aufbauen](https://www.databinding.net/blazor-tipp:-komponenten-unabhangig-vom-hosting-model-aufbauen/)
 
 ## Getting Started
 
