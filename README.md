@@ -21,6 +21,11 @@ Download this repository and use the Visual Studio Solution that it contains.
 
 Set `BlazorSharedComponents.ClientSide` or `BlazorSharedComponents.ServerSide` as startup project to start the Blazor application.
 
+## Example project
+
+This section explains that this project is only an example to show how such an approach could be realized.
+
+
 ## Authors
 
 - Thierry Iseli - *Inital work* - [Thierry Iseli (databinding)](https://github.com/databinding-thierryiseli)  
