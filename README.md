@@ -1,1 +1,36 @@
-# blazor-shared-components
+# Blazor Shared Component 
+
+An example of showing shared components and pages with Blazor server and client side.
+
+## Getting Started
+
+### Prerequisites
+
+Install the following things:
+
+| Program | Version | Link | Info |
+|-------------|-------------|-----|--|
+| Visual Studio Community | Version 16.5.0 Preview 5.0 | https://visualstudio.microsoft.com/vs/preview/ | Workloads to install: ASP.NET and web development, .NET Core cross-platform development
+| .NET Core SDK | 3.1.201 | https://dotnet.microsoft.com/download/dotnet-core/3.1#3.1.3 | N/A
+
+### Installing
+
+Download this repository and use the Visual Studio Solution that it contains.
+
+## Running
+
+Set `BlazorSharedComponents.ClientSide` or `BlazorSharedComponents.ServerSide` as startup project to start the Blazor application.
+
+## Authors
+
+- Thierry Iseli - *Inital work* - [Thierry Iseli (databinding)](https://github.com/databinding-thierryiseli)  
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Built With
+
+- [.NET Core](https://dotnet.microsoft.com/download/dotnet-core)
+- [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
+- [MatBlazor](https://www.matblazor.com/)
