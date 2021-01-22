@@ -30,7 +30,7 @@ This section explains that this project is only an example to show how such an a
 
 ## Authors
 
-- Thierry Iseli - *Inital work* - [Thierry Iseli (databinding)](https://github.com/databinding-thierryiseli)  
+- Thierry Iseli - *Inital work* - [databinding](https://github.com/orgs/databinding-gmbh)  
 
 ## License
 
